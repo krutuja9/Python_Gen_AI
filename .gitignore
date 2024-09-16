@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Jupyter notebook metadata (optional)
+*.ipynb-meta
+
+# VS Code workspace settings (if using VS Code)
+.vscode/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# OS-generated files (optional)
+.DS_Store
+Thumbs.db
+S
